@@ -1,0 +1,102 @@
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin: 0;
+}
+
+header.logo1 {
+    text-align: center;
+}
+
+nav {
+    background-color:rgba(138, 14, 14, 0.103);
+    height: 40px;
+    width: 100%;
+    text-align-last:justify;
+}
+
+h1 {
+    font-size: 50px
+}
+
+span {
+    font-weight: bold;
+    color: rgb(219, 85, 8);
+}
+
+.hire_b {
+    text-decoration: none;
+    background-image:linear-gradient(lightSalmon, tomato);
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: seashell;
+}
+
+.name {
+    width: 40%;
+    padding-left: 2%;
+    margin-left: 2%;
+    float: left;
+}
+
+.name img {
+    width: 80%;
+    padding: 5% 5%;
+    margin: 5% 5%;
+    margin-left: 25%;
+}
+
+.name2 {
+    width: 40%;
+    padding-left: 2%;
+    margin-left: 2%;
+    float: left;
+}
+
+.name2 img {
+    width: 80%;
+    padding: 5% 5%;
+    margin: 5% 5%;
+}
+
+.product-id {
+    float: left;
+}
+
+.id2 {
+    float: left;
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+}
+
+.bold {
+    font-size: 50px;
+    text-align: center;
+}
+
+span.bold {
+    color: rgb(238, 101, 10);
+}
+
+section {
+    height: 500px;
+}
+
+#product {
+    width: 23%;
+}
+.hire_c {
+    text-decoration: none;
+    background-image:linear-gradient(lightSalmon, tomato);
+    padding: 5px 10px;
+    font-weight: bold;
+    color: seashell;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+}
+footer {
+    text-align:center;
+}
